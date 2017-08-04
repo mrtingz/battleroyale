@@ -1,2 +1,3 @@
-# battleroyale
-Change log for Battle Royale gamemode
+# Change Log for Gaben's Unknown Battlegrounds
+
+Will add stuff soon.
