@@ -14,9 +14,11 @@
 - Added command to force start the round (mostly for testing).
 - Added prone mode.
 - Minimap shows amount of seconds until safe zone shrinks.
+- Added 2 more zones for the safe zones to spawn at.
 
 ###### Modifications
 - Winning points are now rewarded based on how many people participated in the round.
+- HUD now shows how many players are left alive even when dead.
 
 ---
 
