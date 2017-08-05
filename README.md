@@ -8,11 +8,15 @@
 - Fixed not being able to talk with other dead people while round is running.
 - Fixed chat sometimes not being displayed by dead people to other dead people.
 - Fixed "safe zone is shrinking" message after round ending.
+- Fixed round starting with only 1 person if second person leaves.
 
 ###### Additions
 - Added command to force start the round (mostly for testing).
 - Added prone mode.
 - Minimap shows amount of seconds until safe zone shrinks.
+
+###### Mofidications
+- Winning points are now rewarded based on how many people participated in the round.
 
 ---
 
