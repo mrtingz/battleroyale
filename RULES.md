@@ -6,9 +6,13 @@
 - Look for vehicles around the map to get you to the zone faster.
 - The last person standing is given pointshop points.
 
+---
+
 - Hit 'T' to toggle first or third person views.
 - Hit 'F3' to toggle the Pointshop.
 - Type "/drop" to drop your current weapon.
+
+---
 
 - No cheating in any form. This includes ghosting, hacking of any kind, or anything that gives you an unfair advantage.
 - Teaming is allowed but is heavily discouraged.
