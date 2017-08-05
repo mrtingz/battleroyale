@@ -1,5 +1,7 @@
 # Change Log for Gaben's Unknown Battlegrounds
 
+---
+
 #### August 5th, 2017
 
 ###### Fixes
@@ -11,6 +13,7 @@
 - Added command to force start the round (mostly for testing).
 - Added prone mode.
 
+---
 
 #### August 4th, 2017
 
