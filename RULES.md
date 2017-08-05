@@ -1,5 +1,7 @@
 # Rules and Help Guide
 
+### Please note that this gamemode if very new, and bugs are very much possible.
+
 - Your main objective is to be the last player standing by any means not against the rules.
 - The city and airport have the greatest amount of loot, but are therefore much more dangerous.
 - Stay within the safe zone or you will start to become damaged.
