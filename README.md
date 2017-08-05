@@ -6,7 +6,7 @@
 ###### Additions
 - Points are rewarded for winning a match.
 - Spawns will now not be completely random for loot. Guns will spawn with their specific ammo type and a random attathcment.
-- Adde dmore loot spawns in dry areas.
+- Added more loot spawns in dry areas.
 
 ###### Fixes
 - Fixed issue with the safe zone not shrinking.
