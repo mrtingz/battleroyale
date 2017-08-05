@@ -12,6 +12,7 @@
 ###### Additions
 - Added command to force start the round (mostly for testing).
 - Added prone mode.
+- Minimap shows amount of seconds until safe zone shrinks.
 
 ---
 
