@@ -15,7 +15,7 @@
 - Added prone mode.
 - Minimap shows amount of seconds until safe zone shrinks.
 
-###### Mofidications
+###### Modifications
 - Winning points are now rewarded based on how many people participated in the round.
 
 ---
