@@ -1,5 +1,16 @@
 # Change Log for Gaben's Unknown Battlegrounds
 
+#### August 5th, 2017
+
+###### Fixes
+- Fixed not being able to talk with other dead people while round is running.
+- Fixed chat sometimes not being displayed by dead people to other dead people.
+- Fixed "safe zone is shrinking" message after round ending.
+
+###### Additions
+- Added command to force start the round (mostly for testing).
+- Added prone mode.
+
 
 #### August 4th, 2017
 
