@@ -8,9 +8,12 @@
 - Scoreboard now shows which country the player is from.
 - Added chat tags for various ranks.
 - Added party system. Set maximum party size to 2.
+- Added more loot spawning spots near castle.
 
 ###### Modifications
 - Reset Pointshop2 database due to corruption from hardware move. Set starting points to 2000 temporarily for compensation.
+- Removed ammo counter that was hidden behind minimap.
+- Water will now damage you if you are at least partially submerged.
 
 ---
 
