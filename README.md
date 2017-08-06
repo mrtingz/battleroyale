@@ -1,5 +1,15 @@
 # Change Log for Gaben's Unknown Battlegrounds
 
+#### August 5th, 2017
+
+###### Fixes
+
+###### Additions
+- Scoreboard now shows which country the player is from.
+
+###### Modifications
+- Reset Pointshop2 database due to corruption from hardware move. Set starting points to 2000 temporarily for compensation.
+
 ---
 
 #### August 5th, 2017
