@@ -7,6 +7,7 @@
 - Fixed party members unable to hurt eachother.
 - Made crate drops not suck as much.
 - Fixed prone not displaying properly for clients.
+- Fixed client not coming back alive while waiting for round to start (again).
 
 ###### Additions
 - Scoreboard now shows which country the player is from.
@@ -19,6 +20,7 @@
 - Removed ammo counter that was hidden behind minimap.
 - Water will now damage you if you are at least partially submerged.
 - Removed Pointshop2 until I can figure out why it keeps killing itself on server start.
+- Organized server round speech into "phrases" for multi-language support.
 
 ---
 
