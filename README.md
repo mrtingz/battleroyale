@@ -1,6 +1,6 @@
 # Change Log for Gaben's Unknown Battlegrounds
 
-#### August 5th, 2017
+#### August 6th, 2017
 
 ###### Fixes
 
