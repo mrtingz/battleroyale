@@ -13,6 +13,7 @@
 - Hit 'T' to toggle first or third person views.
 - Hit 'F3' to toggle the Pointshop.
 - Type "/drop" to drop your current weapon.
+- Hit 'Ctrl' twice to toggle prone.
 
 ---
 
