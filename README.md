@@ -4,6 +4,8 @@
 
 ###### Fixes
 - Fixed leaderboard not changing user nickname on win.
+- Fixed party members unable to hurt eachother.
+- Made crate drops not suck as much.
 
 ###### Additions
 - Scoreboard now shows which country the player is from.
