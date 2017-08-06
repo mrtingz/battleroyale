@@ -3,6 +3,7 @@
 #### August 6th, 2017
 
 ###### Fixes
+- Fixed leaderboard not changing user nickname on win.
 
 ###### Additions
 - Scoreboard now shows which country the player is from.
