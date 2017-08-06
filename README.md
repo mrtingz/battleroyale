@@ -9,6 +9,7 @@
 - Fixed prone not displaying properly for clients.
 - Fixed client not coming back alive while waiting for round to start (again).
 - Changed location of country in scoreboard to make it look cleaner.
+- Fixed being unable to hurt player when inside a vehicle.
 
 ###### Additions
 - Scoreboard now shows which country the player is from.
