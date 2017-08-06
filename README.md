@@ -6,6 +6,7 @@
 
 ###### Additions
 - Scoreboard now shows which country the player is from.
+- Added chat tags for various ranks.
 
 ###### Modifications
 - Reset Pointshop2 database due to corruption from hardware move. Set starting points to 2000 temporarily for compensation.
