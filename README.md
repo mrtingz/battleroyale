@@ -6,6 +6,7 @@
 - Fixed leaderboard not changing user nickname on win.
 - Fixed party members unable to hurt eachother.
 - Made crate drops not suck as much.
+- Fixed prone not displaying properly for clients.
 
 ###### Additions
 - Scoreboard now shows which country the player is from.
