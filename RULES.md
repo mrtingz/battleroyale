@@ -17,4 +17,4 @@
 ---
 
 - No cheating in any form. This includes ghosting, hacking of any kind, or anything that gives you an unfair advantage.
-- Teaming is allowed but is heavily discouraged.
+- You are only allowed to team with one person and one person ONLY. Punishment is up to the admin handling the issue. This is due to many complaints regarding large teams.
