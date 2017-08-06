@@ -17,6 +17,7 @@
 - Reset Pointshop2 database due to corruption from hardware move. Set starting points to 2000 temporarily for compensation.
 - Removed ammo counter that was hidden behind minimap.
 - Water will now damage you if you are at least partially submerged.
+- Removed Pointshop2 until I can figure out why it keeps killing itself on server start.
 
 ---
 
