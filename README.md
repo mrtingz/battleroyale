@@ -15,6 +15,7 @@
 - Added chat tags for various ranks.
 - Added party system. Set maximum party size to 2.
 - Added more loot spawning spots near castle.
+- Added unstuck command for clients to get themselves free.
 
 ###### Modifications
 - Reset Pointshop2 database due to corruption from hardware move. Set starting points to 2000 temporarily for compensation.
