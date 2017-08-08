@@ -1,5 +1,12 @@
 # Change Log for Gaben's Unknown Battlegrounds
 
+#### August 8th, 2017
+
+###### Fixes
+- Fixed bug where safe zone did not appear properly from the outside.
+
+---
+
 #### August 6th, 2017
 
 ###### Fixes
