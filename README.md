@@ -4,6 +4,7 @@
 
 ###### Fixes
 - Fixed bug where safe zone did not appear properly from the outside.
+- Fixed extra safe zone being shown in sky box.
 
 ---
 
