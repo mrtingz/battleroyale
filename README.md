@@ -2,6 +2,9 @@
 
 #### August 9th, 2017
 
+###### Additions
+- Now able to toggle the minimap using the 'M' key.
+
 ###### Modifications
 - Changed how the safe zone looks to make it look nicer (thank you @Leafdroid).
 
