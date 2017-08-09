@@ -4,9 +4,11 @@
 
 ###### Additions
 - Now able to toggle the minimap using the 'M' key.
+- Added function to determine points per kill.
 
 ###### Modifications
 - Changed how the safe zone looks to make it look nicer (thank you @Leafdroid).
+- Leaderboard now can show points instead of wins.
 
 ---
 
