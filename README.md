@@ -2,6 +2,13 @@
 
 #### August 8th, 2017
 
+###### Modifications
+- Changed how the safe zone looks to make it look nicer (thank you @Leafdroid).
+
+---
+
+#### August 8th, 2017
+
 ###### Fixes
 - Fixed bug where safe zone did not appear properly from the outside.
 - Fixed extra safe zone being shown in sky box.
