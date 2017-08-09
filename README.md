@@ -1,6 +1,6 @@
 # Change Log for Gaben's Unknown Battlegrounds
 
-#### August 8th, 2017
+#### August 9th, 2017
 
 ###### Modifications
 - Changed how the safe zone looks to make it look nicer (thank you @Leafdroid).
